@@ -1,13 +1,10 @@
 import React, {useState} from "react";
 
-const ScoreBoard = () => {
-    const [score, setScore] = useState(0);
-    const [bestScore, setBestScore] = useState(0);
-
+const ScoreBoard = (props) => {
     return (
         <div className="scoreboard">
-            <div className="current-score">Score: {score}</div>
-            <div className="best-score">Best Score: {bestScore}</div>
+            <div className="current-score">Score: {props.currentScore}</div>
+            <div className="best-score">Best Score: {props.bestScore}</div>
         </div>
     );
 }
