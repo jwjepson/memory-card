@@ -6,7 +6,6 @@ const Header = () => {
     return (
         <div className="header">
             <h1 className="title">Memory Game</h1>
-            <ScoreBoard/>
         </div>
     );
 }
