@@ -62,3 +62,7 @@ h1 {
 .card {
     padding: 10px;
 }
+
+.card:hover {
+    cursor: pointer;
+}
