@@ -45,3 +45,20 @@ h1 {
     height: 50px;
     width: 100vw;
 }
+
+.card-image {
+    height: 200px;
+    width: 200px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+.card {
+    padding: 10px;
+}
