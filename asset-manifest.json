@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.696283bb.css",
+    "main.js": "/memory-card/static/js/main.501cb6bc.js",
+    "static/media/scroll-background.png": "/memory-card/static/media/scroll-background.fd7e2217dd62770f5d81.png",
+    "static/media/chicken.png": "/memory-card/static/media/chicken.e605f01e64c913843ed4.png",
+    "static/media/reaper.png": "/memory-card/static/media/reaper.fe45be46bc28a128771f.png",
+    "static/media/fireCape.png": "/memory-card/static/media/fireCape.036fb8173c6e741ee144.png",
+    "static/media/rune.png": "/memory-card/static/media/rune.94eb14655c852ebbb385.png",
+    "static/media/gold.png": "/memory-card/static/media/gold.d17a28ff682967068d6a.png",
+    "static/media/spellBook.png": "/memory-card/static/media/spellBook.7b0ebe61916b2ab58a14.png",
+    "static/media/santaHat.png": "/memory-card/static/media/santaHat.dd9fd42652b5d7302d3b.png",
+    "static/media/wizardHat.png": "/memory-card/static/media/wizardHat.69a6620647b6a7dbc165.png",
+    "static/media/runescape.ttf": "/memory-card/static/media/runescape.8312160100eedb12bf64.ttf",
+    "static/media/dragonHelm.png": "/memory-card/static/media/dragonHelm.4597e1c45cab903fe5f3.png",
+    "static/media/logo.png": "/memory-card/static/media/logo.a704d90baa2a9cd0610e.png",
+    "static/media/bones.png": "/memory-card/static/media/bones.6a591dbf2b850debb25f.png",
+    "index.html": "/memory-card/index.html",
+    "main.696283bb.css.map": "/memory-card/static/css/main.696283bb.css.map",
+    "main.501cb6bc.js.map": "/memory-card/static/js/main.501cb6bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.696283bb.css",
+    "static/js/main.501cb6bc.js"
+  ]
+}
