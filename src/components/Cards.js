@@ -1,16 +1,16 @@
-import React, {useEffect, useState} from "react"
+import React, { useState} from "react"
 import { Card } from "./Card"
-import "./styles/memory.css";
-import rune from "./images/rune.png";
-import gold from "./images/gold.png";
-import reaper from "./images/reaper.png";
-import wizardHat from "./images/wizardHat.png";
-import chicken from "./images/chicken.png";
-import bones from "./images/bones.png";
-import dragonHelm from "./images/dragonHelm.png";
-import fireCape from "./images/fireCape.png";
-import spellBook from "./images/spellBook.png";
-import santaHat from "./images/santaHat.png";
+import "../styles/memory.css";
+import rune from "../images/rune.png";
+import gold from "../images/gold.png";
+import reaper from "../images/reaper.png";
+import wizardHat from "../images/wizardHat.png";
+import chicken from "../images/chicken.png";
+import bones from "../images/bones.png";
+import dragonHelm from "../images/dragonHelm.png";
+import fireCape from "../images/fireCape.png";
+import spellBook from "../images/spellBook.png";
+import santaHat from "../images/santaHat.png";
 
 const Cards = (props) => {
 

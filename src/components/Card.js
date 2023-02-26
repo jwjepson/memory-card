@@ -1,5 +1,5 @@
-import React, {useState} from "react";
-import "./styles/memory.css";
+import React from "react";
+import "../styles/memory.css";
 
 const Card = (props) => {
 

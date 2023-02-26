@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/memory.css";
+import "../styles/memory.css";
 
 const Footer = () => {
     return (
