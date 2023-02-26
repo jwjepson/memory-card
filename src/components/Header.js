@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/memory.css";
 import logo from "../images/logo.png";
-import { ScoreBoard } from "../ScoreBoard";
+import { ScoreBoard } from "./ScoreBoard";
 
 const Header = (props) => {
     return (
