@@ -1,6 +1,5 @@
 import React from "react";
 import "./styles/memory.css";
-import {ScoreBoard} from "./ScoreBoard";
 import logo from "./images/logo.png";
 
 const Header = () => {
